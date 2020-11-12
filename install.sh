@@ -6,8 +6,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 # get vim configuration
-git clone https://github.com/SepehrImanian/mylocalvimconf.git
-cd mylocalvimconf; mv .vimrc ~/
+mv .vimrc ~/ ; cd ~/
 
 # install vim plugin
 vim +PlugInstall +qall .vimrc > /dev/null
