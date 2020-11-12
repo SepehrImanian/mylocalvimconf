@@ -3,7 +3,7 @@
 This is my local vim config
 
 ### Install
-First of all it's use **vim-plug** and **vim** not anything else , it's pakage manager for vim
+First of all it's use **vim-plug** and **vim** not anything else , vim-plug is pakage manager for vim
 
 ```
 git clone https://github.com/SepehrImanian/mylocalvimconf.git
